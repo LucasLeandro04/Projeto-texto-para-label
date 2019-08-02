@@ -23,7 +23,7 @@ public class TextoBotao extends Application {
         
         Scene scene = new Scene(root);
         
-        stage.setTitle("desenvolvidor por: Lucas Leandro");
+        stage.setTitle("desenvolvido por: Lucas Leandro");
         stage.setScene(scene);
         stage.show();
     }
